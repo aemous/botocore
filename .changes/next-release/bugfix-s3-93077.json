@@ -1,0 +1,5 @@
+{
+  "type": "bugfix",
+  "category": "``s3``",
+  "description": "Fix s3transfer memory issue."
+}
